@@ -16,6 +16,7 @@ const restaurants = [
     'Royals',
     'Back Deck BBQ',
     'El Taco Luchador',
-
-
 ]
+
+// This pulls a random value from the array
+let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
