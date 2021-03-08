@@ -18,7 +18,9 @@ const restaurants = [
     'El Taco Luchador',
     'Game',
     'The Tea Station',
-    'Muscle Burger Bar'
+    'Muscle Burger Bar',
+    'Hometown Pizza',
+    
 ]
 
 // This pulls a random value from the array
