@@ -3,7 +3,7 @@ const restaurants = [
     'Sarang',
     'Aji Sushi and Asian Cuisine',
     'Monnik',
-    'New Wave Burritos',
+    'New Wave Burrito',
     'Four Pegs',
     'Dakshin',
     'The Post',
