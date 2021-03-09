@@ -25,3 +25,12 @@ const restaurants = [
 
 // This pulls a random value from the array
 let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
+
+
+//function to display the random value
+
+document.getElementById("myBtn").addEventListener("click", suggestion);
+
+function suggestion(){
+    document.getElementById("para").innerHTML =`${pick}`;
+}
