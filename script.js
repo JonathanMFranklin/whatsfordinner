@@ -15,7 +15,7 @@ const restaurants = [
     'Mi Sueño',
     'Royals',
     'Back Deck BBQ',
-    'El Taco Luchador',
+    'Taco Luchador',
     'Game',
     'The Tea Station',
     'Muscle Burger Bar',
@@ -32,5 +32,5 @@ let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
 document.getElementById("myBtn").addEventListener("click", suggestion);
 
 function suggestion(){
-    document.getElementById("para").innerHTML =`${pick}`;
-}
+    document.getElementById("selection").innerHTML =`${pick}`;
+};
