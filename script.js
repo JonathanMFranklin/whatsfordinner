@@ -20,6 +20,8 @@ const restaurants = [
     'The Tea Station',
     'Muscle Burger Bar',
     'Hometown Pizza',
+    'Emmy Squared',
+    'Nam Nam Cafe',
     
 ]
 
