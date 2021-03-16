@@ -8,3 +8,11 @@ That's why I decided to make a site that can help me choose what I should get fr
 
 Please have javascript enabled! this site relies on javascript in order to provide you with a random selection 
 
+CSS features 
+    Responsive navigation menu 
+    Flexbox
+
+
+JS features 
+    JS array that holds restaurant suggestions
+    JS function the grabs a ransom suggestion from the array and displays it on the page 
