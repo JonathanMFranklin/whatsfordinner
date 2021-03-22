@@ -18,7 +18,7 @@ const restaurants = [
     'Taco Luchador',
     'Game',
     'The Tea Station',
-    'Mussel Burger Bar',
+    'Mussel & Burger Bar',
     'Hometown Pizza',
     'Emmy Squared',
     'Nam Nam Cafe',
