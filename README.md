@@ -24,6 +24,7 @@ JS features
 
 
 
-You can either download the project files or go to the site directly!
+
+You can either download the project files or go to the site directly with the below link!
 <br>
 https://yonimacaronii.github.io/whatsfordinner/
