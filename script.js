@@ -1,6 +1,6 @@
 // Array to hold restaurants 
 const restaurants = [
-    'Sarang',
+    'Sarang', 
     'Aji Sushi and Asian Cuisine',
     'Monnik',
     'New Wave Burrito',
@@ -18,7 +18,7 @@ const restaurants = [
     'Taco Luchador',
     'Game',
     'The Tea Station',
-    'Muscle Burger Bar',
+    'Mussel Burger Bar',
     'Hometown Pizza',
     'Emmy Squared',
     'Nam Nam Cafe',
