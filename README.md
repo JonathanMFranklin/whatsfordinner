@@ -20,3 +20,7 @@ JS features
     JS array that holds restaurant suggestions
     <br>
     JS function the grabs a ransom suggestion from the array and displays it on the page 
+<br>
+You can either download the project files or go to the site directly!
+<br>
+https://yonimacaronii.github.io/whatsfordinner/
