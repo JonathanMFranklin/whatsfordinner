@@ -20,7 +20,8 @@ JS features
     JS array that holds restaurant suggestions
     <br>
     JS function the grabs a ransom suggestion from the array and displays it on the page 
-<br>
+    <br>
+    Created a functioning submission form with the use of formspree.io to allow for suggestions from users since site is hosted on github pages- github pages cannot execute server-side. Users are able to enter their email and suggestion that will then be sent to me for review   
 
 
 
