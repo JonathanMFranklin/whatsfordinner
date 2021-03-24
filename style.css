@@ -1,3 +1,4 @@
+/* Universal style */
 *{
     box-sizing: border-box;
     margin: 0;
@@ -8,71 +9,76 @@
     
 }
 
+/* header and foot for whole site */
 .main-header, footer{
     background-color: #FFCAAF;
 }
 
 
-
-.head, .navbar, .instruction, .main-header, .about-head, .about-para{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.head {
-    padding: 20px;
-    align-self: center;
-}
+/* general styling to both index and about */
+    .head, .navbar, .instruction, .main-header, .about-head, .about-para{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 
 
 
+/* Home page */
 
-.navbar a{
-    margin: 20px;
+    .head {
+        padding: 20px;
+        align-self: center;
+    }
 
-}  
 
 
 
-.instruction{
-    margin-top: 10vh;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-}
+    .navbar a{
+        margin: 20px;
 
-#result{
-    margin: 25px;
-    display: flex;
-    justify-content: center;
-}
+    }  
 
-.butt{
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-}
 
-#myBtn{
-    background-color: #F67E7D; 
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
-    margin-bottom: 40px;
+
+    .instruction{
+        margin-top: 10vh;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    #result{
+        margin: 25px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .butt{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+    #myBtn{
+        background-color: #F67E7D; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        margin-bottom: 40px;
     
     }
        
@@ -80,6 +86,12 @@
         box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
       }
     
+
+   
+      /* About page */
+
+
+
     .main-about{
         padding-bottom: 30px;
         
@@ -99,7 +111,19 @@
     .about-head{
         margin-top: 30px;
     }
+
     
+    /* List page */
+
+
+    .list-head{
+        margin-top: 3vh;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
 
 
     .da-list{
@@ -112,6 +136,8 @@
        
     }
 
+ 
+    /* footer */
 
     
     footer{
