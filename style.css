@@ -9,6 +9,10 @@
     
 }
 
+body{
+    background-color: #faf9f3;
+}
+
 /* header and foot for whole site */
 .main-header, footer{
     background-color: #FFCAAF;
