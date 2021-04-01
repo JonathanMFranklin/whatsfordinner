@@ -22,7 +22,6 @@ Please have javascript enabled! this site relies on javascript in order to provi
     </ul>
 
 
-
-<p>You can either download the project files or go to the site directly with the below link!</p>
 <br>
+<p>You can either download the project files or go to the site directly with the below link!</p>
 https://yonimacaronii.github.io/whatsfordinner/
