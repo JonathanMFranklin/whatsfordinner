@@ -9,14 +9,11 @@ That's why I decided to make a site that can help me choose what I should get fr
 Please have javascript enabled! this site relies on javascript in order to provide you with a random selection</p>
 
 <h3>CSS features</h3>
-    <br>
-    Responsive navigation menu
-    <br>
-    Flexbox
+    *Responsive navigation menu
+    *Flexbox
 
 
 <h3>JS features</h3>
-    <br>
     <p>JS array that holds restaurant suggestions</p>
     <br>
     <p>JS function the grabs a ransom suggestion from the array and displays it on the page</p>
