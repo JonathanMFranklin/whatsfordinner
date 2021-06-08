@@ -15,7 +15,7 @@ body{
 
 /* header and foot for whole site */
 .main-header, footer{
-    background-color: #FFCAAF;
+    background-color: #e7c66f;
 }
 
 
@@ -70,7 +70,7 @@ body{
     }
 
     #myBtn{
-        background-color: #F67E7D; 
+        background-color: #ddaea0; 
         border: none;
         color: white;
         padding: 15px 32px;
