@@ -1,0 +1,2 @@
+{"name":"mel","email":"mel@mail.com","recommendation":"McDonald's"}
+{"name":"jonny","email":"jonny@mail.com","recommendation":"idk"}
