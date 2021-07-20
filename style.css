@@ -6,7 +6,6 @@
     text-decoration: none;
     list-style-type: none;
     font-family: 'Catamaran', sans-serif;
-    
 }
 
 body{
@@ -15,7 +14,8 @@ body{
 
 /* header and foot for whole site */
 .main-header, footer{
-    background-color: #e7c66f;
+    background-color: white;
+    border: 2px ridge black;
 }
 
 
@@ -35,17 +35,10 @@ body{
         padding: 20px;
         align-self: center;
     }
-
-
-
-
     .navbar a{
         margin: 20px;
 
     }  
-
-
-
     .instruction{
         margin-top: 10vh;
         padding: 20px;
@@ -54,23 +47,19 @@ body{
         flex-wrap: wrap;
         text-align: center;
     }
-
     #result{
         margin: 25px;
         display: flex;
         justify-content: center;
     }
-
     .butt{
         margin-top: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
-    
     }
-
     #myBtn{
-        background-color: #ddaea0; 
+        background-color: black; 
         border: none;
         color: white;
         padding: 15px 32px;
@@ -83,9 +72,8 @@ body{
         -webkit-transition-duration: 0.4s;
         transition-duration: 0.4s;
         margin-bottom: 40px;
-    
-    }
-       
+    } 
+
      #myBtn:hover {
         box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
       }
@@ -94,31 +82,26 @@ body{
    
       /* About page */
 
-
-
     .main-about{
-        padding-bottom: 30px;
-        
+        padding-bottom: 30px;   
     }
-    
+
     .about-para, .about-need{
         flex-wrap: wrap;
         margin: 3vh 3vh 5vh 3vh;
-        
     }
 
     .about-para, a{
         display: inline-block;
     }
 
-    
     .about-head{
         margin-top: 30px;
     }
 
+
     
     /* List page */
-
 
     .list-head{
         margin-top: 3vh;
@@ -129,7 +112,6 @@ body{
         text-align: center;
     }
 
-
     .da-list{
         display: flex;
         flex-direction: column;
@@ -137,13 +119,11 @@ body{
         flex-wrap: wrap;
         margin: 20px;
         padding: 20px;
-       
     }
 
- 
-    /* footer */
 
-    
+
+    /* footer */
     footer{
         position: fixed;
         left: 0;
@@ -151,11 +131,6 @@ body{
         width: 100%;
         text-align: center;
     }
-
-
-
-
-
 
 /* --------------------------
   Media Queries
@@ -172,23 +147,17 @@ body{
         display: flex;
         flex-direction: row;
         justify-content: center
-       
     }
-
 }
 
 
 @media (min-width: 1025px){
 
-    
-
     .head, .navbar a{
-       
         justify-content: flex-start;
     }
 
     .head{
-        
         margin-right: auto;
     }
 
