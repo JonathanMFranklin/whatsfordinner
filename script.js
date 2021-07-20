@@ -20,10 +20,15 @@ const restaurants = [
     'The Tea Station',
     'Mussel & Burger Bar',
     'Hometown Pizza',
+    'Emmy Squared',
     'Nam Nam Cafe',
+    'Gogi 1055',
+    'Chik\'n & Mi',
+    'La Suerte',
+
+
     
 ]
-
 // This pulls a random value from the array
 let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
 
