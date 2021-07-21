@@ -11,7 +11,7 @@ const restaurants = [
     'Pizza Donisi',
     'Simply Thai',
     'Queen of Sheba',
-    'Dragon King\'s Daughter',//the slash is an escape character to allow 
+    'Dragon King\'s Daughter',
     'Mi Sueño',
     'Royals',
     'Back Deck BBQ',
@@ -20,14 +20,15 @@ const restaurants = [
     'The Tea Station',
     'Mussel & Burger Bar',
     'Hometown Pizza',
-    'Emmy Squared',
     'Nam Nam Cafe',
     'Gogi 1055',
     'Chik\'n & Mi',
     'La Suerte',
+    'Shalimar',
+    'Foko',
+    'Fresh Out of the Box',
 
 
-    
 ]
 // This pulls a random value from the array
 let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
