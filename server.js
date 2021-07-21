@@ -2,8 +2,7 @@ var http = require("http");
 var fs = require("fs");
 var path = require("path");
 
-http
-  .createServer(function (request, response) {
+http.createServer(function (request, response) {
     console.log("Request: ", request.url);
     var filePath = "./" + request.url;
     if (request.url === "/") {
@@ -20,7 +19,7 @@ http
               console.error(err)
               return
             }
-            //file written successfully
+
           })
 
         response.writeHead(200);
