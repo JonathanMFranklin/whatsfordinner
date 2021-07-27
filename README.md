@@ -9,12 +9,12 @@
 <ol>
     <li>Download the project files and save to your desktop and unzip the file</li>
     <li>You MUST have Node 14+ installed on your computer in order for the server to run</li>
-    <li>Open the command prompt(windows)/terminal(Mac) and go into the project file</li>
+    <li>Open the command prompt (windows) / terminal (Mac) and go into the project file</li>
     <li>Enter node server.js to start up the server and console will advise that server is running </li>
     <li>In a new chrome window type (or copy and paste) in http://127.0.0.1:8000/</li>
     <li>This will open to index.html, the form is on the about page</li>
     <li>After you have completed the form and click submit, you can go into the submission.txt file on the desktop (or in your IDE) and you will see the form data saved to the file</li>
-    <li>To end the server go to your command prompt(windows)/terminal(mac) by pressing ctrl + c</li>
+    <li>To end the server go to your command prompt (windows) /terminal (mac) by pressing ctrl + c</li>
     
 </ol>
 
