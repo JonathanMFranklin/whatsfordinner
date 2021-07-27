@@ -14,7 +14,7 @@
     <li>In a new chrome window type (or copy and paste) in http://127.0.0.1:8000/</li>
     <li>This will open to index.html, the form is on the about page</li>
     <li>After you have completed the form and click submit, you can go into the submission.txt file on the desktop (or in your IDE) and you will see the form data saved to the file</li>
-    <li>To end the server go to your command prompt (windows) /terminal (mac) by pressing ctrl + c</li>
+    <li>To end the server go to your command prompt (windows) /terminal (Mac) by pressing ctrl + c</li>
     
 </ol>
 
