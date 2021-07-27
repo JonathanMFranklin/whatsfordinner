@@ -28,7 +28,7 @@
     <ul>
     <li>JS array that holds multiple restaurant suggestions and when the button is clicked it will then display the result on the page</li>
     <li>implemented regex to validate email field and will let users know if the email they entered is in a valid format</li>
-    <li>Created form that post form data to an external .txt file (submission.txt) once the user clicks on submit but creating a small server to run the project</li>
+    <li>Created form that post form data to an external .txt file (submission.txt) once the user clicks on submit by creating a small server to run the project</li>
     </ul>
 
 
