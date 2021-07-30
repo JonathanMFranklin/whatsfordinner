@@ -7,13 +7,17 @@
 <br>
 <h2>How to run the project</h2>
 <ol>
-    <li>Download the project files</li>
+    <li>Download the project file</li>
     <li>You MUST have Node 14+ installed on your computer in order for the project to run</li>
     <li>Open the command prompt (windows) / terminal (Mac) and go into the project file</li>
     <li>Enter <code>node server.js</code> to start up the server and console will advise that server is running </li>
     <li>In a new chrome window type (or copy and paste) http://127.0.0.1:8000/</li>
     <li>This will open to index.html, the form is on the about page (about.html)</li>
-    <li>After you have completed the form and click submit, you can go into the submission.txt file in the project folder (or in your IDE such as VScode) and you will see the form data saved to the file. Note: after checking the submission.txt file and you enter new data into the form and submit, you will have to close out of the submission.txt file and reopen to see the new form data (unless you have the project open in your IDE, then it should update automatically when viewing the submission.txt file)</li>
+    <li>After you have completed the form and click submit, you can go into the submission.txt file in the project folder and you will see the form data saved to the file.</li>
+    <ul>
+    <li>
+     Note: after checking the submission.txt file and you enter new data into the form and submit, you will have to close out of the submission.txt file and reopen to see the new form data </li>
+     </ul>
     <li>To end the server go to your command prompt (windows) /terminal (Mac) by pressing ctrl + c</li>
     
 </ol>
