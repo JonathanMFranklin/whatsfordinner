@@ -1,6 +1,6 @@
 // Array to hold restaurants 
 const restaurants = [
-    'Sarang', 
+    'Sarang',
     'Aji Sushi and Asian Cuisine',
     'Monnik',
     'New Wave Burrito',
@@ -27,6 +27,7 @@ const restaurants = [
     'Shalimar',
     'Foko',
     'Fresh Out of the Box',
+    'Toasty\'s tavern'
 
 
 ]
@@ -38,6 +39,6 @@ let pick = restaurants[Math.floor(Math.random() * restaurants.length)];
 
 document.getElementById("myBtn").addEventListener("click", suggestion);
 
-function suggestion(){
-    document.getElementById("selection").innerHTML =`${pick}`;
+function suggestion() {
+    document.getElementById("selection").innerHTML = `${pick}`;
 };
